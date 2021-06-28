@@ -30,7 +30,7 @@ public class SegundaPractica {
 
             for(int i=1; i<=n; i++)
             {
-                System.out.println(m*i);
+                System.out.println( m * i );
             }
 
         } catch (Exception err) {
